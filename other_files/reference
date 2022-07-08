@@ -1,0 +1,216 @@
+
+# _______________
+
+
+    def create_call(make_model_dict):
+        import fetch_printer_records as f
+        global im
+        import ip_mac as im
+        records = im.fetch_all_records(f)
+        macIds, ips = im.get_all_macIds(
+            records), im.get_all_ip(records) if records else []
+        tenant_dealer_dict = td.get_dealers(
+            fDict, tenant_url, headers, payload)
+
+        for i in range(base, max_):
+            random_make = random.choice(list(make_model_dict.keys()))
+            corresponding_model = make_model_dict.get(random_make)
+            printer_data = get_make_model_metadata(
+                random_make, corresponding_model)
+            if printer_data['data']['printerType'] is None:
+                print("[*] case sensitive error ahead. Ergo Exiting...")
+                import sys
+                sys.exit()
+            tenant_name = random.choice(list(tenant_dealer_dict.keys()))
+            dealer_list = tenant_dealer_dict.get(tenant_name)
+            mac_id = im.generate_macId(macIds)
+            ip = im.generate_ip(ips)
+            group_id = random.choice(["i1_g1", "i1_g2"])
+            p = set_parameters(tenant_name, dealer_list,
+                               printer_data['data'], preferred_dealer_id, i, mac_id, ip, group_id)
+            add_printer_entry(p)
+            try:
+                if printer_data['data']['printerType'] != "LABEL" or printer_data['data']['printerType'] != "DOT_MATRIX":
+                    server_id = install_printer_on_server(mac_id, group_id)
+
+                    install_status = get_install_status(
+                        mac_id, server_id, printer_data['data'])
+                    print(f"[*] Install status: {install_status}")
+                    update_printer_entry_to_activate_printer(server_id, p)
+
+                perform_test_print_on_installed_printer(printer_data, mac_id)
+            except Exception:
+                print(
+                    f"[*] printerType is {printer_data['data']['printerType']}")
+                print("[*] Hence not installed on server.")
+
+# _____________________
+
+
+def insertion_module():
+    previous_serial = 0
+    first = True
+    try:
+        while True:
+            signal.alarm(6)
+            if not first:
+                n = int(input(
+                    "[*] Enter the number to continue inserting n printer records, 0 to return. [you got 5 seconds]"))
+            else:
+                first = False
+                n = int(
+                    input("[*] Enter the number to insert n printer records. [you got 5 seconds]\n"))
+            signal.alarm(0)
+
+            if n == 0:
+                print("[*] Aborting the module.\n")
+                break
+            elif n < 0:
+                print("[*] Enter a valid +ve no")
+            else:
+                create_call(previous_serial, n, make_model_dict)
+                previous_serial = n+1
+        return
+    except Exception as err:
+        print(err, " try changing the code.")
+# ___________________________
+
+
+def delete_Printer_serial(D):
+    import fetch_printer_records as f
+    global im
+    import ip_mac as im
+    records = im.fetch_all_records(f)
+    if records:
+        List = []
+        count = 1
+        for i in records['data']['hits']:
+            List.append((count, i['displayName'], i['macId'], i['groupId']))
+            count += 1
+        for i in List:
+            print(f"{i[0]} : {i[1]} {i[2]}")
+        print("\n[*] Enter the serial no to delete that record. 0 to return")
+        word = "Enter the serial no. can be more than one[ex: 1 or 1 4 5 7]\n"
+        try:
+            ch = list(map(int, input(word).split(' ')))
+            print(ch)
+            if not ch:
+                print('No serials provided. Please Reconsider.')
+                delete_Printer_serial(D)
+            if len(ch) == 1 and ch[0] == 0:
+                return
+            for i in ch:
+                if i <= 0:
+                    pass
+                elif i > len(List):
+                    print(f"[!] Serial {i} Out Of Bounds, Skipping.")
+                else:
+                    payload = {'macId': List[i][2],
+                               'groupId': List[i][3]}
+                    func_Del(D, payload)
+            print('\n')
+        except Exception as err:
+            print(f"{err}\n")
+            return
+    else:
+        print("No records to delete.")
+        return
+
+
+def delete_printer_list(D):
+    print("please save the list of mac_ids in a file and provide the file_name.")
+    print("format: [(macId1, groupId1), (macId2, groupId2)]")
+    fn = input("filename: ")
+    List = []
+    try:
+        with open(fn, 'r') as filehandle:
+            List = json.load(filehandle)
+        if List:
+            for i in List:
+                payload = {'macId': i[0],
+                           'groupId': i[1]}
+                func_Del(D, payload)
+    except Exception as err:
+        print(f"{err}\n")
+    finally:
+        return
+
+
+def delete_All(D):
+    import fetch_printer_records as f
+    global im
+    import ip_mac as im
+    records = im.fetch_all_records(f)
+    if records:
+        rDict = {}
+        for i in records['data']['hits']:
+            rDict[i['displayName']] = {'mac_id': i['macId'],
+                                       'group_id': i['groupId']}
+        try:
+            for i in rDict:
+                payload = {"macId": i['mac_id'],
+                           "groupId": i['group_id']}
+                func_Del(D, payload)
+        except Exception as err:
+            print(f"{err} deleting i['mac_id']")
+        finally:
+            # !!don't remove the finally block
+            pass
+
+
+def delete_printer():
+    tries = 3
+    import delete_printer_records as Delete
+    option = """[1] delete All\n[2] delete by feeding list of mac_ids.\n[3] delete using serial no.\n[0] Return.\n"""
+    ch = int(input(option))
+    if ch == 0:
+        return
+    elif ch == 1:
+        delete_All(Delete)
+    elif ch == 2:
+        delete_printer_list(Delete)
+    elif ch == 3:
+        delete_Printer_serial(Delete)
+    else:
+        tries -= 1
+        if tries == 0:
+            print("[!] Request wait exceeded. Exiting.")
+            sys.exit()
+        delete_printer()
+
+
+if __name__ == '__main__':
+    print("[*] Performing...")
+
+    global parser, url
+    parser = configparser.ConfigParser()
+    parser.optionxform = str
+    parser.read('config.ini')
+    headers = dict(parser.items('headers'))
+    url = dict(parser.items('urls'))
+    make_model_dict = dict(parser.items('make_model_dict'))
+
+    tenant_url = url['tenant_url']
+    payload = {}
+    fDict = {}
+
+    preferred_tenant = None
+    preferred_dealer_id = None
+
+    options = """[1|insert] insert printer\n[2|delete] Delete printers.\n[0|exit] Exit.\n"""
+    tries = 3
+    while True:
+        print(options)
+        ch = input("You are liberal to make your choice, but wisely:) ").lower()
+        if ch in ['0', 'exit']:
+            sys.exit()
+        elif ch in ['1', 'insert']:
+            insertion_module()
+        elif ch in ['2', 'delete']:
+            delete_printer()
+        else:
+            tries -= 1
+            if tries == 0:
+                print("[!] Limit Exceeded. Exiting.")
+                break
+            print("[!] invalid option. Retry.,")

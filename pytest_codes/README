@@ -1,0 +1,63 @@
+python3 -m pip install pytest
+
+
+filename and method name must start with test_|test
+class name must start with Test
+
+run the command below within the directory where code is present with *_test.py or test_*.py.
+pytest
+
+OR
+If you want to explicitly run a custom file name, then
+pytest <filename.py>
+
+
+fn can be square_test too, but should be _test or test_
+It is mandatory to have "test" word in the function name to make it run under pytest.
+#refere tesequality() and testequality() in test_square.py
+
+
+@pytest.mark.parametrize("attribute", attributes())
+markers: parametrize, xfail, skip
+
+we can also create custom markers,
+@pytest.mark.<markername>
+
+pytest -m others
+
+
+
+Fixtures are functions, which will run before each test function to
+ which it is applied. Fixtures are used to feed some data to the tests
+such as database connections, URLs to test and some sort of input data.
+Therefore, instead of running the same code for every test, we can attach
+ fixture function to the tests and it will run and return the data to the
+ test before executing each test.
+
+@pytest.fixture
+
+To make a fixture available to multiple test files, we have to define
+ the fixture function in a file called conftest.py.
+
+ Parameterizing of a test is done to run the test against
+  multiple sets of inputs.
+
+
+  The syntax to stop the execution of test suite soon after n number of test fails is as follows −
+
+  pytest --maxfail = <num>
+
+pytest test_failure.py -v --maxfail 1
+
+
+By default, pytest runs tests in sequential order. In a real scenario, a
+ test suite will have a number of test files and each file will have a bunch
+  of tests. This will lead to a large execution time. To overcome this,
+  pytest provides us with an option to run tests in parallel.
+
+  pip install pytest-xdist
+
+  we can run tests by using the syntax pytest -n <num>
+
+pytest -n 3
+-n <num> runs the tests by using multiple workers, here it is 3.

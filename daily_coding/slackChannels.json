@@ -1,0 +1,3826 @@
+{
+    "ok": true,
+    "channels": [
+        {
+            "id": "C1JDD20P8",
+            "name": "random",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1466426660,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "random",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "Non-work banter and water cooler conversation",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 1990
+        },
+        {
+            "id": "C1JDXJF0S",
+            "name": "general",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1466426660,
+            "is_archived": false,
+            "is_general": true,
+            "unlinked": 0,
+            "name_normalized": "general",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "Company-wide announcements and work-based matters",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "This channel is for team-wide communication and announcements. All team members are in this channel.",
+                "creator": "U5NH2CUUS",
+                "last_set": 1496740271
+            },
+            "previous_names": [],
+            "num_members": 2189
+        },
+        {
+            "id": "C1SHBMVC5",
+            "name": "helpme",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1468820425,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "helpme",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1R7RMB7G",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Help each other :)",
+                "creator": "U1T1A1PE3",
+                "last_set": 1495703274
+            },
+            "previous_names": [
+                "tekion_emp"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "C1U4J0G92",
+            "name": "golang",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1469167057,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "golang",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss Go",
+                "creator": "U1JDMA50D",
+                "last_set": 1469167058
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C1U4MAX7A",
+            "name": "reactjs",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1469166691,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "reactjs",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Talk about React JS",
+                "creator": "U1JDMA50D",
+                "last_set": 1469166692
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C1U4U38PP",
+            "name": "rdalpha1",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1469167082,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "rdalpha1",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C1V2FA7CY",
+            "name": "search",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1469500620,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "search",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Talk about search",
+                "creator": "U1JDMA50D",
+                "last_set": 1469500621
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C1WL7R84V",
+            "name": "uxdesign",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1469852886,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "uxdesign",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1RQHJ396",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Update on the UX Design",
+                "creator": "U1RQHJ396",
+                "last_set": 1469852887
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C1WQX9L0K",
+            "name": "sprintdiscussion",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1470019414,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "sprintdiscussion",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1RFYA2BE",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C1WQXH9H9",
+            "name": "sprint",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1470019524,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "sprint",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1RFYA2BE",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C1X95JH3R",
+            "name": "rfid",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1470114391,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "rfid",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss RFID",
+                "creator": "U1JDMA50D",
+                "last_set": 1470114392
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C1XMUJ86N",
+            "name": "ui_ux",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1470204760,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "ui_ux",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C1Y6SQKFF",
+            "name": "developer_warehouse",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1470311264,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "developer_warehouse",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1RA7KE6Q",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Reporting and uploading Important files/details pertaining to development.",
+                "creator": "U1RA7KE6Q",
+                "last_set": 1470311266
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C22F991UM",
+            "name": "hardware",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1471503735,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "hardware",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "Hardware and IoT related discussions",
+                "creator": "U22F2NJKG",
+                "last_set": 1485841281
+            },
+            "purpose": {
+                "value": "Discuss hardware related ideas, issues etc",
+                "creator": "U1JDMA50D",
+                "last_set": 1471503735
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C23PLQDR6",
+            "name": "reactnative",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1471894298,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "reactnative",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "discuss react native",
+                "creator": "U1JDMA50D",
+                "last_set": 1471894299
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C29JT8J2Y",
+            "name": "cdms-web",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1473351773,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "cdms-web",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1Z47Q9JS",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "communication specific to cDMS-Web project",
+                "creator": "U1Z47Q9JS",
+                "last_set": 1473351774
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C2AABBG01",
+            "name": "bitbucket",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1473525038,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "bitbucket",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 3
+        },
+        {
+            "id": "C2KFE32HY",
+            "name": "whitewalkers",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1475647777,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "whitewalkers",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1TRKKW3Z",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C2MBF8BT8",
+            "name": "team-a",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1476096007,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "team-a",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1Z47Q9JS",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C2N9WAR8F",
+            "name": "team_ci",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1476263644,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "team_ci",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1T12BHUN",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discussion about work assignment and updates",
+                "creator": "U1T12BHUN",
+                "last_set": 1476263722
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C2QK95KJ4",
+            "name": "somya",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1476772648,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "somya",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1TRGU2G0",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C2WKCV6HK",
+            "name": "reporting_analytics",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1477962515,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "reporting_analytics",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Tekion will provide an industry specific and personalized analytics experience, enabling business users to visualize, forecast, collaborate and predict their data in an intuitive fashion while leveraging data from various sources.",
+                "creator": "U28NW3SLT",
+                "last_set": 1481672502
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C308QNZFS",
+            "name": "devops",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1478791765,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "devops",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1R87USPL",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "Infrastructure , Platform &amp; DevOps forum",
+                "creator": "U2N9ZA0DN",
+                "last_set": 1478883843
+            },
+            "purpose": {
+                "value": "DevOps related communications, discussions &amp; support questions",
+                "creator": "U1R87USPL",
+                "last_set": 1478793452
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3449UE59",
+            "name": "productteam",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1479423636,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "productteam",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1TRGU2G0",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Product",
+                "creator": "U1TRGU2G0",
+                "last_set": 1479423639
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C35PZSER5",
+            "name": "product_team",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1479713968,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "product_team",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1Y5WTB1U",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "team",
+                "creator": "U1Y5WTB1U",
+                "last_set": 1479713970
+            },
+            "previous_names": [
+                "engineering_team_1",
+                "product_team_1",
+                "new_team"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "C3720UXJ6",
+            "name": "jenkins_build",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1480073940,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "jenkins_build",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1T12BHUN",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To Notify in case of any jenkins build fail or abort",
+                "creator": "U1T12BHUN",
+                "last_set": 1480073941
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3A6S6UEA",
+            "name": "product",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1480622321,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "product",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1UA1H95K",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3AUJ8N6L",
+            "name": "hadoop-bigdata",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1481104748,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "hadoop-bigdata",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2N9ZA0DN",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "for Big-data platform",
+                "creator": "U2N9ZA0DN",
+                "last_set": 1481104750
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3E7XR5MJ",
+            "name": "platform",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1481642613,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "platform",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2N9ZA0DN",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To discuss daily status , issues on platform track and Infra dependencies",
+                "creator": "U2N9ZA0DN",
+                "last_set": 1481642614
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3GMMGB62",
+            "name": "thumbsup",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1481931627,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "thumbsup",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1R87USPL",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "Company Wide Recognitions.",
+                "creator": "U1RA7KE6Q",
+                "last_set": 1548344741
+            },
+            "purpose": {
+                "value": "Share kudos; Recognize and appreciate good work",
+                "creator": "U1R87USPL",
+                "last_set": 1481931628
+            },
+            "previous_names": [],
+            "num_members": 1934
+        },
+        {
+            "id": "C3HCQNHU3",
+            "name": "mongodb",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1482316610,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "mongodb",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1T0G90BY",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3MC7HEMS",
+            "name": "redis",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1483551633,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "redis",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1T0G90BY",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3Q2F90MN",
+            "name": "analyticdesign",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1484241640,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "analyticdesign",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1UA1H95K",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Analytics Product",
+                "creator": "U1UA1H95K",
+                "last_set": 1484241641
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C3RLRMPEV",
+            "name": "uat_tst_jenkins",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1484632472,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "uat_tst_jenkins",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1T12BHUN",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Build for tst and uat Environments",
+                "creator": "U1T12BHUN",
+                "last_set": 1484632689
+            },
+            "previous_names": [],
+            "num_members": 12
+        },
+        {
+            "id": "C3VJWL6TY",
+            "name": "tips-of-the-day",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1485149418,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "tips-of-the-day",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1T0G90BY",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C464MMK5K",
+            "name": "lunchgroup1",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1487191238,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "lunchgroup1",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1UA1H95K",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Eat Healthy, sometimes ;)",
+                "creator": "U27H704HY",
+                "last_set": 1489792172
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C46N7KKT5",
+            "name": "bugs",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1487305262,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "bugs",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2AQ3RYB1",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C47FB8YHE",
+            "name": "build_discussion",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1487673679,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "build_discussion",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1T12BHUN",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "discussion about build issues/queries",
+                "creator": "U1T12BHUN",
+                "last_set": 1487675899
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C48QD0RD0",
+            "name": "prameet",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1487760585,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "prameet",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2N9ZA0DN",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C49QD7B6X",
+            "name": "mobile",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1487917298,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "mobile",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2AQ3RYB1",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "mobileleads"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "C49TZJGQ4",
+            "name": "frontend-devs",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1487912486,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "frontend-devs",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U46U0PLQM",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To discuss best practices for frontend development (javascript, react, css, etc)",
+                "creator": "U46U0PLQM",
+                "last_set": 1487912722
+            },
+            "previous_names": [],
+            "num_members": 64
+        },
+        {
+            "id": "C4EU8CTAN",
+            "name": "finance",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1488910365,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "finance",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2AQ3RYB1",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4F46UE8K",
+            "name": "team-pheonix",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1488941821,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "team-pheonix",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2YVC9WNT",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Team communication channel for sharing information/updates/asking for help.",
+                "creator": "U2YVC9WNT",
+                "last_set": 1488941823
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4H8165SL",
+            "name": "tekion-scheduling",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1489483345,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "tekion-scheduling",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1Z47Q9JS",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Channel for webhook notification for Scheduling product",
+                "creator": "U1Z47Q9JS",
+                "last_set": 1489483346
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4QFTMBDW",
+            "name": "timecard",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1490765032,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "timecard",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2AQ3RYB1",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4R568NR1",
+            "name": "repairorders",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1490764920,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "repairorders",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2AQ3RYB1",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4R8V3LFJ",
+            "name": "frontenddev",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1490872348,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "frontenddev",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1R7ZULG7",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4RQS3WA2",
+            "name": "stratergy",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1490744924,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "stratergy",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1TRGU2G0",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4SHVKSER",
+            "name": "opcodes",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1490936497,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "opcodes",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2AQ3RYB1",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4T6CUXEK",
+            "name": "data-platform-infra",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1490938226,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "data-platform-infra",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U3F657U23",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Keep track of data platform infra, discuss any issues or trouble shoot production problems.",
+                "creator": "U3F657U23",
+                "last_set": 1490938437
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4TKKN1A8",
+            "name": "fixedoperationsdesign",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1491229769,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "fixedoperationsdesign",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1UA1H95K",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4UFG9Z1Q",
+            "name": "asgard",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1491340734,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "asgard",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2WJT35DL",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4UMMQVB8",
+            "name": "machinelearning",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1491289299,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "machinelearning",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2AQ3RYB1",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "ML Scenarios",
+                "creator": "U2AQ3RYB1",
+                "last_set": 1491289300
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C4Z5EUF55",
+            "name": "remotedesktop",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1492025641,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "remotedesktop",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2WJT35DL",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Windows VM",
+                "creator": "U2WJT35DL",
+                "last_set": 1492025641
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C50S2JH0X",
+            "name": "ux",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1492451412,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "ux",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U4YGJGZ54",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Design Standardization",
+                "creator": "U4YGJGZ54",
+                "last_set": 1492451413
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5235U1J5",
+            "name": "quality",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1492784575,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "quality",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2AQ3RYB1",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Quality",
+                "creator": "U2AQ3RYB1",
+                "last_set": 1492784576
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C55KA9VLH",
+            "name": "partstrack",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1493397112,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "partstrack",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U54MJRZ8V",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C56PQ7CQP",
+            "name": "data-platform-build",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1493369359,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "data-platform-build",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1RA7KE6Q",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Jenkins Build Information for Data Platform Servers",
+                "creator": "U1RA7KE6Q",
+                "last_set": 1493369360
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C58C6NHHQ",
+            "name": "usabilitytesting",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1493850581,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "usabilitytesting",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U28NW3SLT",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "User testing channel for all user research",
+                "creator": "U28NW3SLT",
+                "last_set": 1493850582
+            },
+            "previous_names": [],
+            "num_members": 9
+        },
+        {
+            "id": "C5A3UFYLD",
+            "name": "visualdesign",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1494227486,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "visualdesign",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U4YGJGZ54",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To make sure all the designs are consistent",
+                "creator": "U4YGJGZ54",
+                "last_set": 1494227487
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5B7K7TGQ",
+            "name": "gm-demo",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1494487265,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "gm-demo",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U22F2NJKG",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Discuss GM Demo issues",
+                "creator": "U22F2NJKG",
+                "last_set": 1494487266
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5BBX2F5X",
+            "name": "tuiatoms",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1494494158,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "tuiatoms",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1Z47Q9JS",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Communication related tUiAtoms library",
+                "creator": "U1Z47Q9JS",
+                "last_set": 1494494159
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5DMVEVU2",
+            "name": "design-guidelines",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1494866451,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "design-guidelines",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2Y32SQ0L",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To collaborate on the design guidelines",
+                "creator": "U2Y32SQ0L",
+                "last_set": 1494866453
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5FP4Q0PQ",
+            "name": "checkin-new-flow",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1495087961,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "checkin-new-flow",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U4D6F3MSQ",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5MGZ7J91",
+            "name": "go-live",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1496383937,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "go-live",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1XAK79F0",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To discuss details about the release on 1st Aug and other subsequent releases",
+                "creator": "U1XAK79F0",
+                "last_set": 1496383937
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5PPZA0NP",
+            "name": "mobile-team",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1496823278,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "mobile-team",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1XAK79F0",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "For discussions within mobile team",
+                "creator": "U1XAK79F0",
+                "last_set": 1496823280
+            },
+            "previous_names": [],
+            "num_members": 13
+        },
+        {
+            "id": "C5QHU395K",
+            "name": "web-check-in",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1496897254,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "web-check-in",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U4K9LQCJH",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To discuss and track the progress of web checkin",
+                "creator": "U2YVC9WNT",
+                "last_set": 1496916062
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5T2NLKK7",
+            "name": "serivcemenutrack",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1497363850,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "serivcemenutrack",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U54MJRZ8V",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5VRJ9AKS",
+            "name": "web-checkin-frontend",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1497965702,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "web-checkin-frontend",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U4K9LQCJH",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5WFWDD9C",
+            "name": "uxr",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1497864077,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "uxr",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U4YGJGZ54",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C5X4TL14H",
+            "name": "employee-scheduling",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1498108608,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "employee-scheduling",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U55CTLAUF",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "U55CTLAUF",
+                "last_set": 1520566638
+            },
+            "purpose": {
+                "value": "",
+                "creator": "U55CTLAUF",
+                "last_set": 1520566638
+            },
+            "previous_names": [
+                "employee-schduling",
+                "track2-cashering",
+                "track2-cashieing",
+                "track2"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "C60LPLCQG",
+            "name": "devmanagers",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1498714505,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "devmanagers",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1TRGU2G0",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Dev Managers",
+                "creator": "U1TRGU2G0",
+                "last_set": 1499721442
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C60SCU57Z",
+            "name": "scheduling-no-leads",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1498556709,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "scheduling-no-leads",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1TRKKW3Z",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C618XA2KV",
+            "name": "board-demo",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1498716679,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "board-demo",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2Y32SQ0L",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "To discuss all issues pertaining to the demo on 30th.",
+                "creator": "U2Y32SQ0L",
+                "last_set": 1498716679
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C64MPRZB9",
+            "name": "goa",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1499234434,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "goa",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1Y5WTB1U",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C67J3DQ73",
+            "name": "servicemenudev",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1499917929,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "servicemenudev",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U41QA60NR",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C67T28C64",
+            "name": "windows7pc",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1499970386,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "windows7pc",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2WJT35DL",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "for Remote Access",
+                "creator": "U2WJT35DL",
+                "last_set": 1499970387
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C69GZU7L2",
+            "name": "digital_signage",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1500269150,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "digital_signage",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6EJRNFH6",
+            "name": "chrysler-demo",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1501271831,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "chrysler-demo",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1R87USPL",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Demo for Chrysler by Aug 15th",
+                "creator": "U1R87USPL",
+                "last_set": 1501271832
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6KHU26DN",
+            "name": "mobile_testing",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1502284326,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "mobile_testing",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U4UMH6MV4",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Mobile_issue_cleanup",
+                "creator": "U4UMH6MV4",
+                "last_set": 1502284327
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6N2VVD5Y",
+            "name": "servicemenudata",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1502686830,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "servicemenudata",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U41QA60NR",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Data entry for Service Menu",
+                "creator": "U41QA60NR",
+                "last_set": 1502686831
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6P7JGL7N",
+            "name": "accountingv2",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1502862364,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "accountingv2",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U54MJRZ8V",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6PQT85U1",
+            "name": "partsupsellmenu",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1503036032,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "partsupsellmenu",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U5Q2EST6U",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6R7PTS14",
+            "name": "passbook",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1503034572,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "passbook",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U5Q2EST6U",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6RTNBSAH",
+            "name": "assets_uxr",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1503381954,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "assets_uxr",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U601VDPB7",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "check the assets in zeplin",
+                "creator": "U601VDPB7",
+                "last_set": 1503381956
+            },
+            "previous_names": [
+                "assets"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "C6T9L5LLB",
+            "name": "namesuggestion",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1503602646,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "namesuggestion",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U41QA60NR",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Find a name for our communication channel application, where the service advisor will be contacting the customer",
+                "creator": "U41QA60NR",
+                "last_set": 1503602647
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6U4URZFS",
+            "name": "dcs",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1503945763,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "dcs",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Dealer Communication Services",
+                "creator": "U1JDMA50D",
+                "last_set": 1503945764
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6WML6NLX",
+            "name": "obd-location-feature",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1504068324,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "obd-location-feature",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U22F2NJKG",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Temporary channel to get quick support from all teams to complete this in a day or two",
+                "creator": "U22F2NJKG",
+                "last_set": 1504068325
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C6XTRM9M0",
+            "name": "tekion-qa",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1504534648,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "tekion-qa",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1TRGU2G0",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 30
+        },
+        {
+            "id": "C6YN4C38Q",
+            "name": "tekionqa",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1504761307,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "tekionqa",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U6Z0W9E5D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "Testing Team",
+                "creator": "U6Z0W9E5D",
+                "last_set": 1504761439
+            },
+            "purpose": {
+                "value": "TESTING",
+                "creator": "U6Z0W9E5D",
+                "last_set": 1504761308
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C70P9UNFK",
+            "name": "profiles",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1505148494,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "profiles",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U5NH2CUUS",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C72K05V40",
+            "name": "chargebeebillings",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1505410369,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "chargebeebillings",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U432ZHKG8",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Chargebee",
+                "creator": "U432ZHKG8",
+                "last_set": 1505410371
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C73MZT4AV",
+            "name": "endtoendtenantsetup",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1505589770,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "endtoendtenantsetup",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2WJT35DL",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "<https://tekion.atlassian.net/wiki/spaces/DMS/pages/92930170/End+to+End+Tenant+Setup>",
+                "creator": "U2N9ZA0DN",
+                "last_set": 1505625369
+            },
+            "purpose": {
+                "value": "List all the items that required to bring up a New Tenant",
+                "creator": "U2WJT35DL",
+                "last_set": 1505589771
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C73QEENTD",
+            "name": "productmanagers",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1505494308,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "productmanagers",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U432ZHKG8",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Product Managers",
+                "creator": "U432ZHKG8",
+                "last_set": 1505494310
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C753G17EH",
+            "name": "iot-hardware-data",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1505764782,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "iot-hardware-data",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2WJT35DL",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Any discussion between iot-hardware devices and Data",
+                "creator": "U2WJT35DL",
+                "last_set": 1505764783
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C773XB458",
+            "name": "change_starts_with_me",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1506054826,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "change_starts_with_me",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U1JDMA50D",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Share positive events and messages to the team. List out things you are grateful for.",
+                "creator": "U1JDMA50D",
+                "last_set": 1506054826
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C779Y5NS1",
+            "name": "uat1_jenkins",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1506068829,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "uat1_jenkins",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U32QU0WQN",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "UAT build notifier",
+                "creator": "U32QU0WQN",
+                "last_set": 1506068831
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C781BFR7V",
+            "name": "support-tickets",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1506317186,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "support-tickets",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U6UCGKD09",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "The purpose of this channel is to allow field teams to report critical/urgent dealer issues that require immediate attention by support while providing visibility to other teams.\n\n<https://tekion.atlassian.net/wiki/spaces/CustOps/pages/1452507313/>",
+                "creator": "US01WSP0R",
+                "last_set": 1604723829
+            },
+            "purpose": {
+                "value": "Allow Customer Support Team To Collaborate",
+                "creator": "U6UCGKD09",
+                "last_set": 1506317186
+            },
+            "previous_names": [
+                "ask-support",
+                "customer_support"
+            ],
+            "num_members": 0
+        },
+        {
+            "id": "C79J8U8AH",
+            "name": "dev",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1506499512,
+            "is_archived": true,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "dev",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U5L18RNNA",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 0
+        },
+        {
+            "id": "C7B352X4J",
+            "name": "sockwars",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1506704092,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "sockwars",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "parent_conversation": null,
+            "creator": "U2AQ3RYB1",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T1JDD1QH4"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "ROCK YOUR SOCKS",
+                "creator": "U4WLECARE",
+                "last_set": 1507141260
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [],
+            "num_members": 5
+        }
+    ],
+    "response_metadata": {
+        "next_cursor": "dGVhbTpDN0JEWUFWOVI="
+    }
+}
